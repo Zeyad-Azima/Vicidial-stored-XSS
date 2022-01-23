@@ -1,5 +1,5 @@
 # Vicidial-stored-XSS
-Vicidial is vulnerable to stored cross-site-scripting through the new script tab
+Vicidial is vulnerable to stored cross-site-scripting through the script tab inputs
 
 # Reproduce
 - go to the vicidial and login 
