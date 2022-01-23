@@ -8,4 +8,5 @@ Vicidial is vulnerable to stored cross-site-scripting through the new script tab
 - now click save, we were able to bypass the filter then view script 
 - As you can see the code executed
 
-
+# PoC
+<img src="Screenshot 2022-01-23 090638.png">
