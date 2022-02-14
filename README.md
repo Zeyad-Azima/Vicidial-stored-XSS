@@ -1,4 +1,4 @@
-# Vicidial-stored-XSS
+# Vicidial-stored-XSS (CVE-2021-46557)
 Vicidial is vulnerable to stored cross-site-scripting through the script tab inputs
 
 # Reproduce
